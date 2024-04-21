@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "RSR1.3R的下载"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"RSR=∞\""
 date:       2024-04-21 9:00:00
 author:     "ChouChouFlah"
 header-img: "img/post2024-04-21.png"
